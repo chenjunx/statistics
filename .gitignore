@@ -1,0 +1,6 @@
+# 原书 PDF：体积大且有版权，不入库
+*.pdf
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
